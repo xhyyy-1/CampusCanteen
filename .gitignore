@@ -1,0 +1,19 @@
+# 编译产物
+build/
+*.hap
+hvigor/
+.cxx/
+.preview/
+
+# 依赖包
+oh_modules/
+node_modules/
+
+# IDE配置
+.idea/
+.hvigor/
+local.properties
+
+# 日志缓存
+log/
+tmp/
